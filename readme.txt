@@ -1,4 +1,4 @@
-welcome to MyProject
+welcome to the GIT FOR BEGINNER MyProject
 
 2ND EDIT 
 AUTHOR:DHRUVIT
